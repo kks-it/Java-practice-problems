@@ -1,4 +1,5 @@
 
+// Rotate an array to it's left by K indexes
 
 public class AA3_LeftRotateByK {
     public static void main(String[] args) {
